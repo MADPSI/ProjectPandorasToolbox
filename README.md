@@ -50,11 +50,48 @@ Currently available are:
     * Half-Torus?
     * Simplified Torus?
 
+Of which there are the following colours:
+* Recolouring / Clear > Specialised texture to roughly match the colour and texture of the skin the of the creature (does not receive decals from paints that do not normally paint parts, such as the Scars and Veins detail paints from Creepy & Cute)
+* White
+* Silver
+* Black
+* Tan
+* Brown
+* Dark Brown
+* Reddish-Brown
+* Crimson
+* Red
+* Light / Neon Red
+* Tangerine
+* Light / Neon Orange
+* Orange
+* Light / Neon Yellow
+* Gold
+* Green
+* Dark Green
+* Aqua
+* Blue
+* Light / Neon Blue
+* Lavender
+* Purple
+* Dark / Royal Purple
+* Base Colour Only
+* Coat Colour Only
+* Detail Colour Only
+
 ### Parts Mode Colour
 Each currently available part has been given an independent model that will display the colour of the part accurately to how it would appear in Paint Mode, Test Drive and in-game. Due to limitations, however, this imposes a significant bloat in filesize, at least until a more quitable solution can be found. 
 
+### Saveable
+All parts are saveable without the need of the Force Save mod or tweak. Creations made with these parts however still cannot be shared normally via the Sporepedia.
+
+### Vehicle and Building Editor
+COMING SOON.
+
 ### Compatability Version
-Due to early mistakes in handling, several instances of version incompatability have occured. At present, the only thus-far successful fix is only available for Pandora's Toolbox v. 1.0.1, an update to which will be included with every 2.x release.
+Due to early mistakes in handling, several instances of version incompatability have occured. At present, the only thus-far successful fix is only available for Pandora's Toolbox v. 1.0.1, an update to which will be included with every 2.x release. 
+
+*If you intend to **preserve creations** made with PTB v. 1.0.1, use this compatability version. 2.x releases **will** break saved part morphs on 1.0.1-made creations.*
 
 This compatability version does *not* as of writing (@ March 21, '23) contain alterations to the existing Sphere parts.
 
