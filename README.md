@@ -43,8 +43,8 @@ Currently available are:
   * Half-Sphere. Ditto with flat face.
   * Coming Soon:
     * Hollow Half-Sphere / Cup / Shell. Independent interior scaling on X/Y/Z axes. 
- 
- * Toroids
+
+* Toroids
   * Torus / Ring. Includes girth modifier, chainlink shape and sawtooth deformation.
   * Coming Soon:
     * Half-Torus?
