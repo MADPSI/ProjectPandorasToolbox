@@ -8,7 +8,7 @@ The mod currently contains *9* unique shapes, with a further 12 being prepared f
 
 (*) *This feature is, currently, only accessible in the Creature Editor when [Dark Injection](https://davoonline.com/sporemodder/rob55rod/DarkInjection/)'s __foundational packages__ are installed (no additional content added by that mod is required to be active).*
 
-Currently available or planned (?) are:
+Currently available, planned or in-consideration (?) are:
 
 * Platonic Solids
   * Cube / Hexahedron / Rectangular Prism. Morphable into variously a triangular, rectangular or trapezoildal prisma and a rectangular-based pyramid.
