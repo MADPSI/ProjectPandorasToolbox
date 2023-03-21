@@ -58,4 +58,4 @@ Due to early mistakes in handling, several instances of version incompatability 
 
 This compatability version does *not* as of writing (@ March 21, '23) contain alterations to the existing Sphere parts.
 
-## Made With The Mod:
+## Made With This Mod:
