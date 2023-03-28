@@ -1,6 +1,8 @@
 ## Overview
 **Pandora's Toolbox** is a part mod adding geometric primitives to the Creature Editor.
 
+Note: This mod must, as of version 2.5.0 be installed with the [Spore ModAPI Installer Kit](http://davoonline.com/sporemodder/rob55rod/ModAPI/Public/).
+
 ## Features
 
 ### Contents
