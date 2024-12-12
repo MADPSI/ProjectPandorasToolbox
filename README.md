@@ -14,43 +14,32 @@ Currently available, planned or in-consideration (?) are:
 
 * Platonic Solids
   * Cube / Hexahedron / Rectangular Prism. Morphable into variously a triangular, rectangular or trapezoildal prisma and a rectangular-based pyramid.
-  * Coming Soon:
-    * Tetrahedron / Triangular-pyramid.
-    * Octohedron / Double rectangular-pyramid.
-    * Decahedron / Double pentagonal-pyramid.
-    * Dodecahedron / Hexagonal-faced sphere.
-    * Icosahedron / Triangle-faced sphere.
-    * Variant Cube? Different morphs?
+  * Tetrahedron / Triangular-pyramid.
+  * Octohedron / Double rectangular-pyramid.
+  * Decahedron / Double pentagonal-pyramid.
+  * Dodecahedron / Hexagonal-faced sphere.
+  * Icosahedron / Triangle-faced sphere.
 
 * Prisms
   * Conventional Cylinder / Icosidodecagonal (32-sided) prism. Morphable at both bases and in middle, into a cone or double-cone.
   * Half-Cylinder. Ditto with flat face.
   * Hexagonal Prism.
   * Bendable Cylinder / Icosidodecagonal prism (32 segments). Highly flexible, X/Y bending directions, twist bend and variable taper.
-  * Coming Soon:
-    * Bendable Rectangular Prism. Curved panels.
-    * Standard Polygonal Prisms (Triangular, Pentagonal, etc.)
-    * Variant Conventional Cylinder? Different morphs?
+  * Bendable Rectangular Prism. Curved panels.
+  * Standard Polygonal Prisms (Triangular, Pentagonal, etc.)
 
 * Pipes
   * Cylindrical / Icosidodecagonal pipe. Morphable aperture, independent X/Y stretching.
   * Rectangular pipe. Ditto.
-  * Coming Soon:
-    * Gears. Both Even-toothed and Odd-toothed, including inner radius morphing, crowning and tooth sharpness modifier.
-    * Standard Polygonal Pipes?
-    * Bendable Pipes?
+  * Gears. Both Even-toothed and Odd-toothed, including inner radius morphing, crowning and tooth sharpness modifier.
     
 * Spheroids
   * Sphere. Highly morphable, including banana, cuboidal and teardrop shapes.
   * Half-Sphere. Ditto with flat face.
-  * Coming Soon:
-    * Hollow Half-Sphere / Cup / Shell. Independent interior scaling on X/Y/Z axes. 
+  * Hollow Half-Sphere / Cup / Shell. Independent interior scaling on X/Y/Z axes. 
 
 * Toroids
   * Torus / Ring. Includes girth modifier, chainlink shape and sawtooth deformation.
-  * Coming Soon:
-    * Half-Torus?
-    * Simplified Torus?
 
 Of which there are the following colours:
 * Recolouring / Clear > Specialised texture to roughly match the colour and texture of the skin the of the creature (does not receive decals from paints that do not normally paint parts, such as the Scars and Veins detail paints from Creepy & Cute)
